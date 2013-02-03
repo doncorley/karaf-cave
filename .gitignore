@@ -1,2 +1,9 @@
 target
-*.i??
+.settings
+.project
+.classpath
+.attach*
+*~
+.metadata
+*.releaseBackup
+release.properties
